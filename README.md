@@ -1,1 +1,1 @@
-Pomodor Timer project for The Odin Project
+Pomodoro Timer project for The Odin Project
