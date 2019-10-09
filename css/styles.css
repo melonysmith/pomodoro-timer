@@ -1,0 +1,76 @@
+body {
+    align-items: center;
+    background: linear-gradient(90deg, #343642, #798A8A, #343642);
+    color: #343642;
+    display: flex;
+    font-family: serif;
+    justify-content: center;
+}
+
+main {
+    margin-top: 75px;
+}
+
+h1 {
+    color: #343642;
+    font-family: monospace;
+    text-align: center;
+}
+
+h2 {
+    color: #DBD5B7;
+    font-family: monospace;
+    text-align: center;
+}
+
+h3,
+h5 {
+    color: #DBD5B7;
+    font-family: sans-serif;
+    font-size: 20px !important;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#settings {
+    text-align: center;
+}
+
+button {
+    background: #348899;
+    border: 1px solid #DBD5B7;
+    border-radius: 15px !important;
+    color: #DBD5B7;
+}
+
+#sessionTime,
+#breakTime {
+    margin-top: 20px;
+}
+
+#sessionUp,
+#breakUp {
+    margin-bottom: 30px;
+    padding: 3px 5px;
+}
+
+#timer {
+    background: #DBD5B7;
+    border: 1px solid #343642;
+    border-radius: 15px;
+    font-size: 100px;
+    text-align: center;
+}
+
+#controls {
+    margin-top: 25px;
+    text-align: center;
+}
+
+#start,
+#pause, 
+#stop,
+#reset {
+    margin: 0 12px;
+    padding: 10px 16px;
+}
